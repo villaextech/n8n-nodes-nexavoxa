@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-nexavoxa",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "n8n node for NexaVoxa — build AI voice agents that make and answer phone calls",
 	"license": "MIT",
 	"homepage": "https://nexavoxa.com",
